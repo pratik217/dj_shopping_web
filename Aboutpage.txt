@@ -1,0 +1,2 @@
+This website will have a root api page which will contain the hyperlnk to all available api in the site.
+The appi includes list of differnet section which the garment shop deals with for eg. Mens, Womens, Children//.
